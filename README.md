@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EphraimTMadondo
-- 👀 I’m interested in React/React Native Development
+- 👀 I’m a Full-Stack Java/SpingBoot/React/React Native Development
 - 🌱 I’m currently learning Algorithms and Data Science
-- 💞️ I’m looking to collaborate on Software Development Remotely
+- 💞️ I’m looking to collaborate on Software Development Opportunities Remotely
 - 📫 How to reach me madondoephraim@gmail.com
 
 <!---
